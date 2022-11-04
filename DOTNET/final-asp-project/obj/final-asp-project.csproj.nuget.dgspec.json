@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alvaro.Gomila\\Downloads\\final-asp-project-main\\final-asp-project-main\\final-asp-project\\final-asp-project.csproj": {}
+    "C:\\Users\\Alvaro.Gomila\\OneDrive - Solera Holdings, Inc\\Desktop\\AssesmentNET\\DOTNET\\final-asp-project\\final-asp-project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alvaro.Gomila\\Downloads\\final-asp-project-main\\final-asp-project-main\\final-asp-project\\final-asp-project.csproj": {
+    "C:\\Users\\Alvaro.Gomila\\OneDrive - Solera Holdings, Inc\\Desktop\\AssesmentNET\\DOTNET\\final-asp-project\\final-asp-project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alvaro.Gomila\\Downloads\\final-asp-project-main\\final-asp-project-main\\final-asp-project\\final-asp-project.csproj",
+        "projectUniqueName": "C:\\Users\\Alvaro.Gomila\\OneDrive - Solera Holdings, Inc\\Desktop\\AssesmentNET\\DOTNET\\final-asp-project\\final-asp-project.csproj",
         "projectName": "final-asp-project",
-        "projectPath": "C:\\Users\\Alvaro.Gomila\\Downloads\\final-asp-project-main\\final-asp-project-main\\final-asp-project\\final-asp-project.csproj",
+        "projectPath": "C:\\Users\\Alvaro.Gomila\\OneDrive - Solera Holdings, Inc\\Desktop\\AssesmentNET\\DOTNET\\final-asp-project\\final-asp-project.csproj",
         "packagesPath": "C:\\Users\\Alvaro.Gomila\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alvaro.Gomila\\Downloads\\final-asp-project-main\\final-asp-project-main\\final-asp-project\\obj\\",
+        "outputPath": "C:\\Users\\Alvaro.Gomila\\OneDrive - Solera Holdings, Inc\\Desktop\\AssesmentNET\\DOTNET\\final-asp-project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alvaro.Gomila\\AppData\\Roaming\\NuGet\\NuGet.Config",
